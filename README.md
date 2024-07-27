@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ##
 Website Link [https://ai-interview-mocker-seven.vercel.app/]
+=======
+# AI-Interview-Coach
+AI Interview Coach is your ultimate interview preparation tool. Simulate real-world interviews with AI-driven questions tailored to specific job roles and technologies, and receive instant feedback. Boost your confidence with personalized, interactive sessions designed to help you ace your next interview.
+>>>>>>> 3afe09ffa58b9decd587c16739f13f6cd7f571a6
